@@ -4,9 +4,9 @@
 	
 	Simple cache cleaner for Uplay. 
 
-    .VERSION
+    	.VERSION
 
-    0.0.1A
+   	 0.0.1A
 	
 	.AUTHOR
 	
